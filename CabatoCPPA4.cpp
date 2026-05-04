@@ -1,6 +1,6 @@
 #include <iostream>
-#include <fstream>   // for file handling
-#include <string>    // for using string type
+#include <fstream>   
+#include <string>    
 
 using namespace std;
 
